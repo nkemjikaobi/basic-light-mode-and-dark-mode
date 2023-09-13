@@ -11,7 +11,7 @@ import {
 
 export default function App() {
 	const [value, setValue] = useState('');
-	const [toggleValue, setToggleValue] = useState(true);
+	const [toggleValue, setToggleValue] = useState(false);
 
 	const handleTextChange = newValue => {
 		setValue(newValue);

@@ -109,7 +109,6 @@ const styles = StyleSheet.create({
 		justifyContent: 'center',
 		alignItems: 'center',
 	},
-	outputLabel: {},
 	outputValue: {
 		marginLeft: 8,
 	},
